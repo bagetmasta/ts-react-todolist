@@ -1,6 +1,7 @@
 {
   "name": "ts-react-todolist",
   "version": "0.1.0",
+  "homepage": "https://bagetmasta.github.io/ts-react-todolist/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
